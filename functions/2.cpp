@@ -1,17 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int printHello(){
-  cout << "Hello\n";
-  
-  return 3; 
+int sum(int a , int b){
+  int s=a+b;
+  return s;
 }
-
 int main() 
 {
-  int val = printHello();
-  cout << "val " << val << endl;
-  printHello();
+  cout<<sum(10,5)<<endl;
   
   return 0;
 }
