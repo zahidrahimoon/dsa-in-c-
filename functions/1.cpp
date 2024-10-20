@@ -1,8 +1,17 @@
 #include <iostream>
 using namespace std;
 
+int printHello(){
+  cout << "Hello\n";
+  
+  return 3; 
+}
+
 int main() 
 {
-    cout << "Hello, World!";
-    return 0;
+  int val = printHello();
+  cout << "val " << val << endl;
+  printHello();
+  
+  return 0;
 }
