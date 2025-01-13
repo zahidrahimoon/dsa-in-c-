@@ -77,7 +77,7 @@
 ## Binary Trees
 | Status | #   | Question                                  | Link                                                                 | Difficulty | Video Solution | Companies                                                    | Pre-requisites |
 |--------|-----|------------------------------------------|----------------------------------------------------------------------|------------|----------------|-------------------------------------------------------------|----------------|
-| ❌      | 1   | Maximum Depth of Binary Tree            | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
+| ✅      | 1   | Maximum Depth of Binary Tree            | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
 | ❌      | 2   | Diameter of Binary Tree                 | [Problem Link](#)                                                   | Medium     | [Solution Link](#) |                                                             | Recursion       |
 | ❌      | 3   | Invert Binary Tree                      | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
 | ❌      | 4   | Level Order Traversal                   | [Problem Link](#)                                                   | Medium     | [Solution Link](#) |                                                             | BFS             |
