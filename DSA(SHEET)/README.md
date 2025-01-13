@@ -79,7 +79,7 @@
 |--------|-----|------------------------------------------|----------------------------------------------------------------------|------------|----------------|-------------------------------------------------------------|----------------|
 | ✅      | 1   | Maximum Depth of Binary Tree            | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
 | ❌      | 2   | Diameter of Binary Tree                 | [Problem Link](#)                                                   | Medium     | [Solution Link](#) |                                                             | Recursion       |
-| ❌      | 3   | Invert Binary Tree                      | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
+| ✅      | 3   | Invert Binary Tree                      | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Recursion       |
 | ❌      | 4   | Level Order Traversal                   | [Problem Link](#)                                                   | Medium     | [Solution Link](#) |                                                             | BFS             |
 | ❌      | 5   | Binary Tree Maximum Path Sum            | [Problem Link](#)                                                   | Hard       | [Solution Link](#) |                                                             | Recursion, DP   |
 
