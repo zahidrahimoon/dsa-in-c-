@@ -66,7 +66,7 @@
 ## Stacks and Queues
 | Status | #   | Question                                  | Link                                                                 | Difficulty | Video Solution | Companies                                                    | Pre-requisites |
 |--------|-----|------------------------------------------|----------------------------------------------------------------------|------------|----------------|-------------------------------------------------------------|----------------|
-| ❌      | 1   | Valid Parentheses                       | [Problem Link](#)                                                   | Easy       | [Solution Link](#) | Amazon, Microsoft                                            | Stacks         |
+| ✅      | 1   | Valid Parentheses                       | [Problem Link](#)                                                   | Easy       | [Solution Link](#) | Amazon, Microsoft                                            | Stacks         |
 | ❌      | 2   | Implement Queue Using Stacks            | [Problem Link](#)                                                   | Easy       | [Solution Link](#) |                                                             | Stacks, Queues |
 | ❌      | 3   | Min Stack                               | [Problem Link](#)                                                   | Medium     | [Solution Link](#) |                                                             | Stacks         |
 | ❌      | 4   | Largest Rectangle in Histogram          | [Problem Link](#)                                                   | Hard       | [Solution Link](#) |                                                             | Stacks         |
